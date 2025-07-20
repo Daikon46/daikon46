@@ -10,7 +10,7 @@
 [![Unreal](https://img.shields.io/badge/-Unreal-090909?style=for-the-badge&logo=UnrealEngine)](https://bloodmoonangel.itch.io/synchro)
 [![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity)](https://learn.unity.com/u/5de23311edbc2a19413ab9e3?tab=profile)
 [![Maya](https://img.shields.io/badge/-Maya-090909?style=for-the-badge&logo=AutodeskMaya)](https://www.artstation.com/artwork/Wm5R9J)
-[![Adobe](https://img.shields.io/badge/-Adobe_Ps_Ai_Pt-090909?style=for-the-badge&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9naXRodWIuY29tL0RhaWtvbjQ2L2RhaWtvbjQ2L2Jsb2IvbWFpbi9hc3NldHMvTG9nb19BZG9iZS5wbmc=)](https://www.artstation.com/artwork/Qn6Dv4)
+[![Adobe](https://img.shields.io/badge/-Adobe_Ps_Ai_Pt-090909?style=for-the-badge&logo=data:image/png+xml;base64,aHR0cHM6Ly9naXRodWIuY29tL0RhaWtvbjQ2L2RhaWtvbjQ2L2Jsb2IvbWFpbi9hc3NldHMvTG9nb19BZG9iZS5wbmc=)](https://www.artstation.com/artwork/Qn6Dv4)
 
 P.S. There are also engineering tools like mathcad, matlab, CAD/CAE systems, etc... but they are irrelevant for IT.
 

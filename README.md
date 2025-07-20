@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/Daikon46/daikon46/blob/main/assets/Header.png)](https://scholar.google.com/citations?hl=en&user=0fEUrf4AAAAJ)
 
 About me
 

@@ -14,11 +14,11 @@
 [![Unreal](https://img.shields.io/badge/-Unreal-090909?style=for-the-badge&logo=UnrealEngine)](https://bloodmoonangel.itch.io/synchro)
 [![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity)](https://learn.unity.com/u/5de23311edbc2a19413ab9e3?tab=profile)
 [![Maya](https://img.shields.io/badge/-Maya-090909?style=for-the-badge&logo=AutodeskMaya)](https://www.artstation.com/artwork/Wm5R9J)
-[![SubstancePainter](https://img.shields.io/badge/-Substance_3D_Painter-090909?style=for-the-badge&logo=)](https://www.artstation.com/artwork/Qn6Dv4)
-[![Marmoset](https://img.shields.io/badge/-Marmoset-090909?style=for-the-badge&logo=Marmoset)]([#](https://www.artstation.com/artwork/wJwzNg))
+[![SubstancePainter](https://img.shields.io/badge/-Substance_3D_Painter-090909.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9naXRodWIuY29tL0RhaWtvbjQ2L2RhaWtvbjQ2L2Jsb2IvbWFpbi9hc3NldHMvTG9nb19QYWludGVyLnN2Zw==)](https://www.artstation.com/artwork/Qn6Dv4)
+[![Marmoset](https://img.shields.io/badge/-Marmoset-090909.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9naXRodWIuY29tL0RhaWtvbjQ2L2RhaWtvbjQ2L2Jsb2IvbWFpbi9hc3NldHMvTG9nb19NYXJtb3NldC5zdmc=)](https://www.artstation.com/artwork/wJwzNg)
 
-[![Photoshop](https://img.shields.io/badge/-Adobe_Ps_Ai_Pt-090909?style=for-the-badge&logo=)](#)
-[![Illustrator](https://img.shields.io/badge/-Illustrator-090909?style=for-the-badge&logo=)](#)
+![Photoshop](https://img.shields.io/badge/-Photoshop-090909.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9naXRodWIuY29tL0RhaWtvbjQ2L2RhaWtvbjQ2L2Jsb2IvbWFpbi9hc3NldHMvTG9nb19QaG90b3Nob3Auc3Zn)
+![Illustrator](https://img.shields.io/badge/-Illustrator-090909.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9naXRodWIuY29tL0RhaWtvbjQ2L2RhaWtvbjQ2L2Jsb2IvbWFpbi9hc3NldHMvTG9nb19pbGx1c3RyYXRvci5zdmc=)
 
 P.S. There are also engineering tools like mathcad, matlab, CAD/CAE systems, etc... but they are irrelevant for IT.
 

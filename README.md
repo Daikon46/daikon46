@@ -22,10 +22,10 @@
 
 P.S. There are also engineering tools like mathcad, matlab, CAD/CAE systems, etc... but they are irrelevant for IT.
 
-- 🔨 I'm currently building a house IRL 🙃, creating a web mobile app and a game on Unity
+- 🔨 I'm currently building a house IRL 🙃
 
-- 📚 I'm currently learning SQL, QA/QC principles and tools, Linux OS
+- 📚 I'm currently learning Linux OS and AI agent development
 
-- 🎮 I'm currently playing Elden Ring
+- 🎮 I'm currently playing Dark Souls 3
 
 - 📫 You can write me on email: rozhkovmiro@gmail.com
